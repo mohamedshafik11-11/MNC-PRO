@@ -1,0 +1,11 @@
+{
+  "name": "MNC Pro",
+  "description": "Comprehensive career preparation, MNC job portal, AI mock interviews, voice AI coach, aptitude assessments, and LinkedIn influencer tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
